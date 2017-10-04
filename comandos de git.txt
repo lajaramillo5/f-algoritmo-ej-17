@@ -1,0 +1,56 @@
+$ history
+    1  git status
+    2  git init
+    3  git config --global user.name"luis jaramillo"
+    4  git config --global user.name "luis jaramillo"
+    5  git config --global user.email "jaramilloluis66@gmail.com"
+    6  get init
+    7  git init
+    8  git add README.md
+    9  git add README.md
+   10  echo "# f-algoritmo-ej-17" >> README.md
+   11  git init
+   12  git add -m "first commit"
+   13  git remote add origin https://github.com/lajaramillo5/f-algoritmo-ej-17.git
+   14  git push -u origin master
+   15  git push -u origin master
+   16  git init
+   17  git add .
+   18  git clone https://github.com/lajaramillo5/f-algoritmo-ej-17.git
+   19  cd..
+   20  cd ..
+   21  git clone https://github.com/lajaramillo5/f-algoritmo-17.git
+   22  git push -u rigiin master
+   23  git init
+   24  git init
+   25  git init
+   26  git clone https://github.com/lajaramillo5/f-algoritmo-17-.git
+   27  git clone https://github.com/lajaramillo5/f-algoritmo-ej-17.git
+   28  git status
+   29  git add .
+   30  git status
+   31  git commit -m "primer comentario"
+   32  git push  -u origine master
+   33  git push  -u origin master
+   34  git status
+   35  git add .
+   36  git commit -m "creacion de archivo"
+   37  git add .
+   38  git status
+   39  git status
+   40  git add .
+   41  git status
+   42  git push -u origin master
+   43  git add .
+   44  git status
+   45  git commit -m "creacion de texto"
+   46  git status
+   47  git push -u origin master
+   48  git status
+   49  git add .
+   50  git satus
+   51  git status
+   52  git commit -m "modificacion de concepto"
+   53  git push -u origin master
+   54  history
+

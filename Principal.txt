@@ -1,0 +1,1 @@
+el concepto de ciclo repetitivo es también llamados lazos o bucles permiten repetir una operación o secuencia de operaciones en función de ciertas condiciones. Es un algoritmo o programa cuyas instrucciones se repiten un número determinado de veces mientras se cumpla una determinada condición.
